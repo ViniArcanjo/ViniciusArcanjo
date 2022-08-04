@@ -377,6 +377,10 @@ nav.show div.icon-close {
   position: relative;
 }
 
+#projects .text {
+  padding: 0 1.5rem;
+}
+
 #projects p a {
   color: var(--title-color);
 }
