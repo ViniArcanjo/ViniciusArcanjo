@@ -687,6 +687,12 @@ footer i:hover {
     padding: 3.625rem 3rem;
   }
 
+  #skills svg {
+    width: 5rem;
+    height: 5rem;
+    fill: hsla(270, 83%, 63%, 1);
+  }
+
   /* === PROJECTS ===*/
 
   #projects .container {
