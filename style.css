@@ -348,6 +348,12 @@ nav.show div.icon-close {
   font-size: 5rem;
 }
 
+#skills svg {
+  width: 5rem;
+  height: 5rem;
+  fill: hsla(270, 83%, 63%, 1);
+}
+
 /*=== PROJECTS ====================================================*/
 #projects {
   overflow: hidden;
